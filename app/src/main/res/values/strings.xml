@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tweep</string>
+    <string name="tweep">TWEEP</string>
+    <string name="exp">Expense Tracker</string>
+    <string name="smart">V 1.0.0</string>
+    <string name="option">Select an application to run!</string>
+    <string name="get_started">Get Started</string>
+    <string name="first_slide_desc">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.</string>
+    <string name="sec_slide_desc">Curabitur aliquet quam id dui posuere blandit. Nulla quis lorem ut libero malesuada feugiat.</string>
+    <string name="third_slide_desc">Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.</string>
+    <string name="fourth_slide_desc">Vestibulum ac diam sit amet quam vehicula elementum</string>
+    <string name="first_slide_title">Track Your Expenses</string>
+    <string name="sec_slide_title">Take Notes</string>
+    <string name="third_slide_title">Check Weather</string>
+    <string name="fourth_slide_title">The Best 3 in 1 app</string>
+
+</resources>
